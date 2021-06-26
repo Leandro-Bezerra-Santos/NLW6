@@ -65,6 +65,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
+## Acessibilidade
+
+- Essa aplicação não é só focada em pessoas sem deficiênciatanto a o contrário ela é foca 100% em pessoas que tem deficiência auditiva e visual e para isso usamos o vLibras .  
+
+<h4>AVISO</h4>
+- Ele desalinha um pouco  as linhas dos ícones porém ja estou a resolver o problema
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
