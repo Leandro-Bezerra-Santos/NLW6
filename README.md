@@ -21,6 +21,19 @@
   <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
 </p>
 
+
+## 👨‍💻 Contribuidores
+❤️ Muito obrigado para essa galera que contribuiu e fez com que o projeto melhorasse! 👏
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/diegocrivelaro/"><img src="./github/diegocrivelario.jpg" width="100px;" /><br /><sub><b>Diego Crivelaro</b></sub></a><br /><a href=""></a></td>
+    <td align="center"><a href="https://github.com/JPFregni"><img src="./github/joao.png" width="100px;" /><br /><sub><b>João Paulo Stefani Fregni</b></sub></a><br /><a href="https://github.com/JPFregni"></a></td>
+  </tr>
+</table> 
+
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,6 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
+
 ## 💻 Projeto
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
@@ -44,7 +58,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
