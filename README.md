@@ -2,6 +2,8 @@
   <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
 </h1>
 
+<h3 align="center">💥EM EVOLUÇÃO⚠</h3>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,7 +35,16 @@
   </tr>
 </table> 
 
+## 🙋‍♂️ Autor
 
+<img src=".github/leandrobezerra.jpg" width="100px" alt="meuperfil">
+<a href="https://www.linkedin.com/in/leandro-bezerra-/">LEANDRO BEZERRA</a>
+<br>
+<p>
+    <a href="https://www.linkedin.com/in/leandro-bezerra-/"><img src=".github/linkedin.png" width="25" alt="Linkedin"></a>
+    <a href="https://github.com/Leandro-Bezerra-Santos/"><img src=".github/github.png" width="25" alt="GitHub"></a>
+    <a href="https://www.instagram.com/leandro_bezerra_santos/"><img src=".github/instagram.png" width="25" alt="Instagram"></a>
+</p>
 
 ## 🚀 Tecnologias
 
