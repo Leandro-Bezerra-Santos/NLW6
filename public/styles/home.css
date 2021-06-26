@@ -1,6 +1,6 @@
 .content{
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 50% 50%;
     grid-template-rows: 11.4rem 1fr;
 
     grid-template-areas: 
@@ -48,6 +48,7 @@ input{
     outline: none;
     
     animation: example 4s infinite linear ;
+    box-shadow:.1px .1px 5px var(--black);
 }
 
 input, button, .button{
@@ -146,10 +147,10 @@ input, button, .button{
     }   
 }
 @keyframes example {
-    0%   {border: 1px solid rgb(0, 162, 255);}
-    25%  {border: 1px solid hsl(222, 100%, 50%);}
-    50%  {border: 1px solid rgb(0, 38, 255); }
-    75%  {border: 1px solid rgb(153, 0, 255); }
-    100% {border: 1px solid rgba(0, 17, 255, 0.835);}
+    0%   {border: 1px solid rgb(0, 255, 255);}
+    25%  {border: 1px solid rgb(1, 174, 255);}
+    50%  {border: 1px solid rgb(98, 0, 255); }
+    75%  {border: 1px solid rgb(29, 0, 195); }
+    100% {border: 1px solid rgba(0, 153, 255, 0.835);}
   }
 

@@ -21,19 +21,23 @@
                 <a href="/">
                     <img src="/images/logo.svg" alt="Rocket.Q Logo"/>
                 </a>
+                
             </header>
 
             <div id="bg">
                 <div class="ball top"></div>
                 <div class="ball bottom"></div>
             </div>
+            <%- include(`parts/vlibras`)%>
      
             <main>
                 <div class="container">
                     <!-- Vai renderizar a part correta de acordo com a url-->
                     <%- include(`parts/${page}`)  %>
                 </div>
+                
             </main>
+            
         </div>
     </body>
 </html>
