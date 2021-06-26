@@ -27,8 +27,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/diegocrivelaro/"><img src="./github/diegocrivelario.jpg" width="100px;" /><br /><sub><b>Diego Crivelaro</b></sub></a><br /><a href=""></a></td>
-    <td align="center"><a href="https://github.com/JPFregni"><img src="./github/joao.png" width="100px;" /><br /><sub><b>João Paulo Stefani Fregni</b></sub></a><br /><a href="https://github.com/JPFregni"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/diegocrivelaro/"><img src=".github/diegocrivelario.jpg" width="100px;" /><br /><sub><b>Diego Crivelaro</b></sub></a><br /><a href=""></a></td>
+    <td align="center"><a href="https://github.com/JPFregni"><img src=".github/joao.png" width="100px;" /><br /><sub><b>João Paulo Stefani Fregni</b></sub></a><br /><a href="https://github.com/JPFregni"></a></td>
   </tr>
 </table> 
 
