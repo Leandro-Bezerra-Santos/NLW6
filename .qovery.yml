@@ -1,0 +1,14 @@
+---
+application:
+  name: "nlw6"
+  project: "RocketQ"
+  organization: "QoveryCommunity"
+databases:
+- type: "MYSQL"
+  name: "mysql"
+routers:
+- name: "main-nlw6"
+  routes:
+  - application_name: "nlw6"
+    paths:
+    - "/*"
