@@ -14,4 +14,4 @@ server.use(express.urlencoded({extended: true}))
 
 server.use(route)
 
-server.listen(process.env.PORT  || 4000)
+server.listen(3000)
