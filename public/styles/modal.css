@@ -63,8 +63,13 @@
     justify-content: center;
 }
 
+
 .modal-wrapper .modal .buttons > .button{
     margin-right: .8rem;
+    transition: .5s;
+}
+.modal-wrapper .modal .button:hover{
+    background: var(--icons-details);
 }
 
 .modal-wrapper .modal .buttons > button,
