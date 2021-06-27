@@ -67,7 +67,7 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 ## Acessibilidade
 
-- Essa aplicação não é só focada em pessoas sem deficiênciatanto a o contrário ela é foca 100% em pessoas que tem deficiência auditiva e visual e para isso usamos o vLibras .  
+- Essa aplicação não é só focada em pessoas sem deficiência a o contrário ela é foca 100% em pessoas que tem deficiência auditiva e visual e para isso usamos o vLibras .  
 
 <h4>AVISO</h4>
 - Ele desalinha um pouco  as linhas dos ícones porém ja estou a resolver o problema
